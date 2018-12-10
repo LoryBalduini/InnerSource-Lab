@@ -1,18 +1,18 @@
-# test site
+# Lory Balduini
 
-questo è il sito di test
+"I am the person your mother warned you about"
 
-un elenco:
-- primo
-- - sotto punto
-- secondo
-- terzo
+**NEVER :**
+- **Gonna give you up**
+- Gonna let you down
+- **Gonna run around**
+- And desert you
 
-| A  | B  |
+| Gatti  | Fila  |
 |---|---|
-| 11  | 12  |
-| 21  | 22  |
+| 44  | x6  |
+|col resto di 2|
 
-![GitHub image](img/github_image.jpg)
+![GitHub image](https://media1.tenor.com/images/a2590d709c2730d0c82a09298f0594c7/tenor.gif?itemid=9571835)
 
-[link al mio sito](https://stefanocecere.com)
+[link al mio sito](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
